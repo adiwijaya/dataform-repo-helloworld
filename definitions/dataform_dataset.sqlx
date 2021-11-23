@@ -4,3 +4,4 @@ config {
 
 select *
 from sandbox_us.titanic_from_spark
+LIMIT 100
